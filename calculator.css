@@ -1,0 +1,30 @@
+.calc{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(72, 69, 69);
+    margin: auto;
+    overflow: hidden;
+}
+
+#screen{
+    width: 400px;
+    height: 70px;
+    background-color: rgba(238, 248, 248, 0.546);
+    margin-top: 30px;
+    margin-left: 50px;
+    pointer-events: none;
+}
+.btn{
+    width: 70px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 42px;
+    background-color: rgb(211, 163, 104);
+}
+.clr{
+    width: 70px;
+    height: 40px;
+    margin-left: 350px;
+    margin-top: 30px;
+    background-color: rgb(211, 163, 104);
+}
